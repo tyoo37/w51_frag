@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder Browseable="True" Group="Explorer" Name="w51_rgb_tiled" Searchable="True">
+  <Place Angle="0" AngularSize="0" Constellation="AQL" DataSetType="Sky" Dec="14.163869898439904" Magnitude="0" Name="w51_rgb_tiled" Opacity="100" RA="19.416743453882884" Rotation="0" ZoomLevel="12.240000000000034">
+    <ForegroundImageSet>
+      <ImageSet BandPass="Visible" BaseDegreesPerTile="2.048000000000006" BaseTileLevel="0" BottomsUp="False" CenterX="290.60960111" CenterY="14.2883225" DataMax="0.37682706" DataMin="0.012954912" DataSetType="Sky" ElevationModel="False" FileType=".fits" Generic="False" Name="w51_rgb_tiled" OffsetX="-0.6215696681021917" OffsetY="-0.12361517177701035" PixelCutHigh="0.32228667438030206" PixelCutLow="0.048858324084430936" Projection="Tan" QuadTreeMap="" Rotation="-0.0013442493957109558" Sparse="True" StockSet="False" TileLevels="3" Url="{1}/{3}/{3}_{2}.fits" WidthFactor="2">
+        <ThumbnailUrl />
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+</Folder>
